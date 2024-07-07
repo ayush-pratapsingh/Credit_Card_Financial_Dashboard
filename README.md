@@ -9,13 +9,13 @@
 🔶**Dataset** - Financial dataset
 
 
-🔶**Dashboard**
+🔶**Dashboard  -**
 1. Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights.
 2. Streamlined data processing & analysis to monitor key performance metrics and trends.
 3. Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
 
-🔶**Project Insights - Week 53 (31st Dec)**
+🔶**Project Insights [Week 53 (31st Dec)] -**
 
 ▶ WoW change:
 
@@ -31,10 +31,4 @@
     ■ TX, NY & CA is contributing to 68%
     ■ Overall Activation rate is 57.5%
     ■ Overall Delinquent rate is 6.06%
-
-📌 
-Contact me for such analysis by dashboards, insights etc. 🚀  
-
-
-
 
