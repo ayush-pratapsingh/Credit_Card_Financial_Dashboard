@@ -1,6 +1,6 @@
 📌
-# Credit_Card_Financial_Dashboard
-Power BI Dashboard
+# Credit Card Financial Dashboard
+# (Power BI Dashboard)
 
 
 🔶**Project Objective**
@@ -19,6 +19,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 🔶**Project Insights - Week 53 (31st Dec)**
 
 ▶ WoW change:
+
     ■ Revenue increased by 28.8%
 
 ▶ Overview YTD:
