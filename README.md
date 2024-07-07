@@ -1,6 +1,6 @@
 📌
 # Credit Card Financial Dashboard
-# (Power BI Dashboard)
+  (Power BI Dashboard)
 
 
 🔶**Project Objective**
@@ -23,6 +23,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
     ■ Revenue increased by 28.8%
 
 ▶ Overview YTD:
+
     ■ Overall revenue is 57M
     ■ Total interest is 8M
     ■ Total transaction amount is 46M
