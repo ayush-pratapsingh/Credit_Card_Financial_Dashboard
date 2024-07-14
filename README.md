@@ -34,5 +34,5 @@
 
 ![proj_3](https://github.com/user-attachments/assets/6d03b67e-371e-4f6a-81bf-3ae2ade21c1b)
 
-![proj_35](https://github.com/user-attachments/assets/a6df0149-f66e-44b4-8f50-11b4acf2f9a8)
+
 
